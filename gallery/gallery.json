@@ -1,0 +1,13 @@
+{
+    "images_data_file": ".\\images_data.json",
+    "public_path": ".\\public",
+    "templates_path": ".\\templates",
+    "images_path": ".\\img",
+    "thumbnails_path": ".\\public\\images\\thumbnails",
+    "thumbnail_height": 160,
+    "title": "PW-Sat2 on-board camera photos",
+    "description": "Images captured by PW-Sat2 satellite.",
+    "background_photo": "PW-Sat2_2016_00_panorama_MSwietlik.png",
+    "url": "",
+    "background_photo_offset": 30
+}
